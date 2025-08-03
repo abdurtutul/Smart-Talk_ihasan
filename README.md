@@ -1,4 +1,4 @@
-# 🧪 SmallTalk – SQA Website Testing Report
+# 🧪 SmallTalk – SQA Functional Testing 
 
 This repository documents the Software Quality Assurance (SQA) testing activities for the **SmallTalk Web Application**, including **UI Testing**, **Functional Testing**, and **API Testing**.
 
@@ -86,7 +86,7 @@ This repository documents the Software Quality Assurance (SQA) testing activitie
 | Home Tab      | <img src="screenshots/1.png" width="250"/> |
 | Community Feed| <img src="screenshots/Screenshot_1.png" width="250"/> |
 | Post Details  | <img src="screenshots/Screenshot_3.png" width="250"/> |
-| Profile Page  | <img src="screenshots/profile.png" width="250"/> |
+| Profile Page  | <img src="screenshots/Screenshot_8.png" width="250"/> |
 | Treds Page  | <img src="screenshots/Screenshot_7.png" width="250"/> |
 | About SmallTalk  | <img src="screenshots/Screenshot_5.png" width="250"/> |
 
