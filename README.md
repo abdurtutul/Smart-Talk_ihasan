@@ -76,19 +76,20 @@ This repository documents the Software Quality Assurance (SQA) testing activitie
 📄 **Full Bug Report Sheet:** [Google Sheet – QA Bug Report](https://docs.google.com/spreadsheets/d/1K4xCQO-Bv9owp9PDdTZqQl5Zn6HaVusUPxerF4x4DJc/edit?usp=sharing)
 
 ---
-
 ## 🖼️ Screenshots
 
 <details>
-<summary>Click to expand screenshots 📸</summary>
-|---------------|------------|------------|
-| Login Screen  | <img src="screenshots/" width="250"/> |
-| Home Tab      | <img src="screenshots/1.png" width="250"/> |
-| Community Feed| <img src="screenshots/Screenshot_1.png" width="250"/> |
-| Post Details  | <img src="screenshots/Screenshot_3.png" width="250"/> |
-| Profile Page  | <img src="screenshots/Screenshot_8.png" width="250"/> |
-| Treds Page  | <img src="screenshots/Screenshot_7.png" width="250"/> |
-| About SmallTalk  | <img src="screenshots/Screenshot_5.png" width="250"/> |
+<summary>Click to expand screenshots 📸</summary><br>
+
+<div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px;">
+  <img src="screenshots/1.png" alt="Home Tab" width="250"/>
+  <img src="screenshots/Screenshot_1.png" alt="Community Feed" width="250"/>
+  <img src="screenshots/Screenshot_3.png" alt="Post Details" width="250"/>
+  <img src="screenshots/Screenshot_8.png" alt="Profile Page" width="250"/>
+  <img src="screenshots/Screenshot_7.png" alt="Threads Page" width="250"/>
+  <img src="screenshots/Screenshot_5.png" alt="About SmallTalk" width="250"/>
+
+</div>
 
 </details>
 
