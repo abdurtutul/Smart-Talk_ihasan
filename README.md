@@ -94,6 +94,13 @@ This repository documents the Software Quality Assurance (SQA) testing activitie
 </details>
 
 ---
+---
+
+## 🎨 Design Files
+
+- 📁 **Figma Design File:** [View Design on Figma](https://www.figma.com/design/lxSVQJ0D9OVqpg89csnXZa/ihsan5987-%7C%7C-webgenius-%7C%7C--FO6271303B9C6?node-id=1-2&p=f&t=KtPy6e8YUmYtUvbs-0)
+- 🔍 **Figma Preview Prototype:** [Preview Interaction](https://www.figma.com/proto/lxSVQJ0D9OVqpg89csnXZa/ihsan5987-%7C%7C-webgenius-%7C%7C--FO6271303B9C6?node-id=6003-3149&p=f&t=KtPy6e8YUmYtUvbs-0&scaling=scale-down&content-scaling=fixed&page-id=1%3A2)
+---
 
 ## 👤 Tester Profile
 
