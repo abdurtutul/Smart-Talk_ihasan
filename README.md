@@ -81,14 +81,14 @@ This repository documents the Software Quality Assurance (SQA) testing activitie
 
 <details>
 <summary>Click to expand screenshots 📸</summary>
-
-| Module        | Screenshot |
-|---------------|------------|
-| Login Screen  | <img src="screenshots/login.png" width="250"/> |
-| Home Tab      | <img src="screenshots/home.png" width="250"/> |
-| Community Feed| <img src="screenshots/community.png" width="250"/> |
-| Post Details  | <img src="screenshots/post_details.png" width="250"/> |
+|---------------|------------|------------|
+| Login Screen  | <img src="screenshots/" width="250"/> |
+| Home Tab      | <img src="screenshots/1.png" width="250"/> |
+| Community Feed| <img src="screenshots/Screenshot_1.png" width="250"/> |
+| Post Details  | <img src="screenshots/Screenshot_3.png" width="250"/> |
 | Profile Page  | <img src="screenshots/profile.png" width="250"/> |
+| Treds Page  | <img src="screenshots/Screenshot_7.png" width="250"/> |
+| About SmallTalk  | <img src="screenshots/Screenshot_5.png" width="250"/> |
 
 </details>
 
