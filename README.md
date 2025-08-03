@@ -94,5 +94,13 @@ This repository documents the Software Quality Assurance (SQA) testing activitie
 
 ---
 
-## 📂 Project Structure
+## 👤 Tester Profile
+
+**Md Abdur Rahaman Tutul**  
+_SQA Engineer – FSD Team – Softvence (Alpha)_  
+📧 Email: _abdurtutul6@gmail.com_  
+🔗 Portfolio/LinkedIn: _https://www.linkedin.com/in/md-abdur-rahaman-tutul-a13012210_
+
+
+
 
